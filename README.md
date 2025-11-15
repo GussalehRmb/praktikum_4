@@ -19,7 +19,7 @@ Tugas ini di buat untuk menghitung nilai nilai akhir mahasiswa dengan menambahka
 2. Masukan data mahsiswa seperti (NAMA, NIM, NILAI TUGAS, NILAI UTS,NILAI UAS).
 3. Ketika sudah menjalankan pilih opsi y/t, Jika memilih "y" maka akan melanjutkan penginputan dan jika memilih "t" maka akan menghasilkan nilai akhir.
 4. Contoh Output
-![alt text](image-1.png)
+![alt text](ss/image-1.png)
 ### Bagian Flowcart 
     A([MULAI]) --> B[Data_mahasiswa = list]
     B --> C[/Input: Nama, NIM, Tugas, UTS, UAS/]
@@ -29,3 +29,6 @@ Tugas ini di buat untuk menghitung nilai nilai akhir mahasiswa dengan menambahka
     F -->|y = Ya| Lanjut
     F -->|t = Tidak| G[Tampilkan semua data <br/> dalam format tabel]
     G --> H([SELESAI])
+### Gambar Flowchart
+![alt text](ss/image.png)
+## Praktikum4 Selesai
